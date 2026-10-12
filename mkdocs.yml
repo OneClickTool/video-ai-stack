@@ -1,0 +1,104 @@
+# Trang "Video AI Stack": các luồng làm video đang xài AI gì, giọng gì, font gì, render bằng gì.
+# Theme chép y chang Product Growth Playbook (docs/stylesheets/extra.css + overrides/), riêng chữ thân = Be Vietnam Pro vì Figtree không có dấu tiếng Việt.
+# Nguồn sửa ở repo riêng video-AI-Skills/site/, chép sang đây bằng site/publish.sh. Xem ở máy: python -m mkdocs serve
+site_name: Video AI Stack
+site_url: https://oneclicktool.github.io/video-ai-stack/
+repo_url: https://github.com/OneClickTool/video-ai-stack
+repo_name: OneClickTool/video-ai-stack
+site_description: Các luồng làm video bằng Claude Code — xài AI gì, giọng gì, Whisper để làm gì, font, hiệu ứng, render engine.
+docs_dir: docs
+site_dir: _site
+use_directory_urls: true
+
+theme:
+  name: material
+  language: vi
+  custom_dir: overrides
+  font:
+    text: Be Vietnam Pro
+    code: JetBrains Mono
+  icon:
+    logo: material/movie-open-play
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tabs.link
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle: { icon: material/weather-night, name: Chế độ tối }
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle: { icon: material/weather-sunny, name: Chế độ sáng }
+
+markdown_extensions:
+  - tables
+  - admonition
+  - attr_list
+  - md_in_html
+  - def_list
+  - pymdownx.details
+  - pymdownx.tabbed: { alternate_style: true }
+  - toc: { permalink: true }
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/lightstarvn
+      name: Tu Nguyen trên X (@lightstarvn)
+    - icon: fontawesome/brands/github
+      link: https://github.com/tucarmd
+      name: Tu Nguyen trên GitHub (@tucarmd)
+
+nav:
+  - Trang chủ: index.md
+  - Các luồng:
+      - luong/index.md
+      - 1 · TikTok faceless giọng AI: luong/01-tiktok-faceless.md
+      - 2 · Hook meme → action app: luong/02-hook-action.md
+      - 3 · Hoạt hình cutout game: luong/03-hoat-hinh-cutout.md
+      - 4 · Tóm tắt truyện 16:9: luong/04-tom-tat-truyen.md
+      - 5 · Đồ hoạ phụ của kênh: luong/05-do-hoa-kenh.md
+      - 6 · Video cho app (repo App): luong/06-video-app.md
+  - Công cụ:
+      - stack/index.md
+      - Giọng đọc (TTS): stack/giong-tts.md
+      - Whisper: stack/whisper.md
+      - Kịch bản & hook: stack/kich-ban.md
+      - Render engine (Remotion, HyperFrames…): stack/render-engine.md
+      - Font & hiệu ứng: stack/font-hieu-ung.md
+      - Nhạc, SFX, âm lượng: stack/am-thanh.md
+      - Ảnh & video AI (Codex, Veo): stack/anh-video-ai.md
+      - Học trend (tikdown): stack/hoc-trend.md
+  - Tra cứu:
+      - Trả lời nhanh: tra-cuu/hoi-nhanh.md
+      - Bảng luồng × công cụ: tra-cuu/ma-tran.md
+      - Điểm đang lệch nhau: tra-cuu/diem-lech.md
+      - Cài đặt máy: tra-cuu/cai-dat.md
+      - Thuật ngữ: tra-cuu/thuat-ngu.md

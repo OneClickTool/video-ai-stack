@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% set area = page.url.split('/')[0] if page and page.url else '' %}
+<div class="page" data-area="{{ area }}">
+  {{ super() }}
+</div>
+{% endblock %}

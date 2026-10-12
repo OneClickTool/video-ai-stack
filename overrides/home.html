@@ -1,0 +1,153 @@
+{% extends "main.html" %}
+
+{% block tabs %}
+{{ super() }}
+{% set img = 'images/' %}
+<div class="home">
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero__text">
+      <p class="kicker"><span class="dot"></span> 6 luồng · 3 engine giọng · đọc từ code 13/10/2026</p>
+      <h1>Làm video bằng AI, <em>biết rõ từng món.</em></h1>
+      <p class="hero__lead">Đang có những luồng video nào, mỗi luồng xài <mark>AI gì, giọng gì, Whisper để làm gì</mark>,
+        font nào, hiệu ứng nào, render bằng Remotion hay Godot — gom về một chỗ, đọc xong là hết mù mờ.</p>
+      <div class="hero__cta">
+        <a class="btn btn--primary" href="{{ 'tra-cuu/hoi-nhanh/' | url }}">Trả lời nhanh →</a>
+        <a class="btn" href="{{ 'tra-cuu/ma-tran/' | url }}">Bảng luồng × công cụ</a>
+      </div>
+    </div>
+    <figure class="hero__art hero__art--strip"><img src="{{ (img ~ 'type-1-tiktok.webp') | url }}" alt="Bốn khung TikTok đã làm: Xài AI thành bảo mẫu, POV mở repo sau 3 tháng, 3 phím tắt ước biết sớm, thư mục Downloads"></figure>
+  </section>
+
+  <!-- 3 STEPS -->
+  <section class="steps">
+    <div class="step"><span class="step__n">1</span><h3>Kịch bản + giọng</h3><p>Claude viết theo công thức hook, rồi TTS đọc: VieNeu, OmniVoice hoặc edge-tts.</p></div>
+    <div class="step"><span class="step__n">2</span><h3>Hình + render</h3><p>Quay app thật hoặc Codex sinh ảnh → Remotion, Godot hay Pillow ghép thành MP4.</p></div>
+    <div class="step"><span class="step__n">3</span><h3>Kiểm rồi mới đăng</h3><p>Whisper nghe lại, chuẩn −14 LUFS, nhìn contact sheet. Người bấm đăng.</p></div>
+  </section>
+
+  <!-- QUESTIONS -->
+  <section class="block">
+    <h2 class="block__title">Đang thắc mắc chỗ nào?</h2>
+    <p class="block__sub">Bấm vào câu giống bạn. Mỗi thẻ mở đúng một trang.</p>
+    <div class="cards">
+      <a class="card c-coral" href="{{ 'stack/giong-tts/' | url }}"><span class="card__emoji">🎙️</span><b>Giọng đọc dùng gì?</b><span>VieNeu · OmniVoice · edge-tts</span></a>
+      <a class="card c-sun" href="{{ 'stack/whisper/' | url }}"><span class="card__emoji">👂</span><b>Whisper là sao?</b><span>Nghe lại giọng AI, lấy mốc từng từ</span></a>
+      <a class="card c-sky" href="{{ 'stack/render-engine/' | url }}"><span class="card__emoji">🎬</span><b>Remotion hay HyperFrames?</b><span>Và khi nào Godot, Pillow, Manim</span></a>
+      <a class="card c-sage" href="{{ 'stack/kich-ban/' | url }}"><span class="card__emoji">📝</span><b>Kịch bản theo method nào?</b><span>6 công thức hook, beat</span></a>
+      <a class="card c-sun" href="{{ 'stack/font-hieu-ung/' | url }}"><span class="card__emoji">🔤</span><b>Font gì, hiệu ứng gì?</b><span>Be Vietnam Pro, spring, rung, karaoke</span></a>
+      <a class="card c-coral" href="{{ 'stack/am-thanh/' | url }}"><span class="card__emoji">🎵</span><b>Nhạc lấy đâu?</b><span>Tự tổng hợp, chuẩn −14 LUFS</span></a>
+      <a class="card c-sage" href="{{ 'stack/anh-video-ai/' | url }}"><span class="card__emoji">🖼️</span><b>Ảnh, video AI ai làm?</b><span>Claude viết prompt, Codex sinh</span></a>
+      <a class="card c-sky" href="{{ 'stack/hoc-trend/' | url }}"><span class="card__emoji">📈</span><b>Học trend thế nào?</b><span>tikdown, tiktrend, Stitch</span></a>
+      <a class="card c-ink" href="{{ 'tra-cuu/diem-lech/' | url }}"><span class="card__emoji">⚠️</span><b>Chỗ nào đang lệch nhau?</b><span>8 điểm ghi lại từ code</span></a>
+    </div>
+  </section>
+
+  <!-- FLOWS -->
+  <section class="block">
+    <h2 class="block__title">6 luồng video</h2>
+    <p class="block__sub">Mỗi luồng một loại video, skill riêng, công thức riêng. Chọn theo <mark>thứ bạn muốn đăng</mark>.</p>
+    <div class="kits kits--6">
+      <a class="kit" href="{{ 'luong/01-tiktok-faceless/' | url }}">
+        <img src="{{ (img ~ 'p1-vi-ai-bao-mau.webp') | url }}" alt="Short TikTok Xài AI thành bảo mẫu">
+        <div class="kit__body"><span class="tag">Chạy được</span><h3>📱 TikTok faceless</h3>
+          <p>Mẹo, nỗi đau → app, trend. VieNeu / OmniVoice → Whisper → Remotion <code>Short</code>.</p>
+          <span class="kit__go">Xem luồng →</span></div></a>
+      <a class="kit" href="{{ 'luong/02-hook-action/' | url }}">
+        <img class="kit__img--tall" src="{{ (img ~ 'type-2-hook-action.webp') | url }}" alt="Hook À đây rồi chính nó rồi cắt vào app Capture Words">
+        <div class="kit__body"><span class="tag">Thử nghiệm</span><h3>😂 Hook meme → app</h3>
+          <p>Câu meme hot 1–2 s rồi cắt vào app. Một kịch bản ra 3 bản: full · stitch · sound.</p>
+          <span class="kit__go">Xem luồng →</span></div></a>
+      <a class="kit" href="{{ 'luong/03-hoat-hinh-cutout/' | url }}">
+        <img class="kit__img--tall" src="{{ (img ~ 'anim-cutout-cover.webp') | url }}" alt="Nhân vật hoạt hình cutout trước ngôi làng">
+        <div class="kit__body"><span class="tag">Đang làm</span><h3>🎭 Hoạt hình cutout</h3>
+          <p>Nhân vật 2D tự tạo, thoại EN, lip-sync theo giọng. edge-tts → Godot 4 / Pillow.</p>
+          <span class="kit__go">Xem luồng →</span></div></a>
+      <a class="kit" href="{{ 'luong/04-tom-tat-truyen/' | url }}">
+        <div class="kit__ph c-sun" aria-hidden="true">📖</div>
+        <div class="kit__body"><span class="tag">Bản nháp</span><h3>📚 Tóm tắt truyện</h3>
+          <p>16:9, giọng kể vi-VN, ảnh tĩnh + camera + thẻ chữ. edge-tts → Remotion <code>Recap</code>.</p>
+          <span class="kit__go">Xem luồng →</span></div></a>
+      <a class="kit" href="{{ 'luong/05-do-hoa-kenh/' | url }}">
+        <div class="kit__ph c-sage" aria-hidden="true">✨</div>
+        <div class="kit__body"><span class="tag">Chưa có mẫu</span><h3>🌀 Đồ hoạ kênh</h3>
+          <p>Logo động, intro/outro, biểu đồ số chạy. wiggle · Remotion · Manim.</p>
+          <span class="kit__go">Xem luồng →</span></div></a>
+      <a class="kit" href="{{ 'luong/06-video-app/' | url }}">
+        <img src="{{ (img ~ 'd1-en-sweepy-demo.webp') | url }}" alt="Short demo app Sweepy">
+        <div class="kit__body"><span class="tag">Chạy được</span><h3>🧩 Video cho app</h3>
+          <p>Demo 16:9 + shorts từ bản quay app thật (repo App, <code>app-video</code>). edge-tts → Remotion.</p>
+          <span class="kit__go">Xem luồng →</span></div></a>
+    </div>
+    <p class="center"><a class="btn" href="{{ 'luong/' | url }}">So nhanh 6 luồng →</a></p>
+  </section>
+
+  <!-- CASE -->
+  <section class="block case">
+    <div class="case__text">
+      <p class="kicker"><span class="dot"></span> Vì sao có 3 engine giọng</p>
+      <h2 class="block__title">Cùng là giọng AI. Mỗi cái mạnh một việc.</h2>
+      <p>TikTok cần giọng <mark>nghe như người</mark> để giữ người xem 3 giây đầu → VieNeu / OmniVoice chạy GPU, có Whisper kiểm lỗi.
+        Video dài nhiều câu, nhiều nhân vật cần nhanh và ổn định → edge-tts.</p>
+      <a class="btn btn--primary" href="{{ 'stack/giong-tts/' | url }}">Xem bảng giọng →</a>
+      <p class="fine">Đọc từ <code>voice.py</code>, <code>voice_lines.py</code>, <code>narrate.py</code>, <code>make_short.py</code> ngày 13/10/2026.</p>
+    </div>
+    <div class="bars">
+      <div class="bar"><div class="bar__label">VieNeu-TTS — TikTok tiếng Việt</div><div class="bar__track"><div class="bar__fill" style="--w:100%"></div></div><b>Luồng 1, 2 · GPU · 25 giọng</b></div>
+      <div class="bar"><div class="bar__label">OmniVoice — TikTok tiếng Anh, voice design + clone</div><div class="bar__track"><div class="bar__fill" style="--w:100%"></div></div><b>Luồng 1, 2 · GPU · 1 giọng cả kênh</b></div>
+      <div class="bar bar--bad"><div class="bar__label">edge-tts — hoạt hình, recap, video app</div><div class="bar__track"><div class="bar__fill" style="--w:100%"></div></div><b>Luồng 3, 4, 6 · mạng · không cần Whisper</b></div>
+    </div>
+  </section>
+
+  <!-- TOOLS -->
+  <section class="block">
+    <h2 class="block__title">Học theo công cụ</h2>
+    <div class="areas areas--8">
+      <a href="{{ 'stack/giong-tts/' | url }}"><span>🎙️</span><b>Giọng</b><i>3 engine</i></a>
+      <a href="{{ 'stack/whisper/' | url }}"><span>👂</span><b>Whisper</b><i>large-v3-turbo</i></a>
+      <a href="{{ 'stack/kich-ban/' | url }}"><span>📝</span><b>Kịch bản</b><i>6 hook</i></a>
+      <a href="{{ 'stack/render-engine/' | url }}"><span>🎬</span><b>Render</b><i>Remotion 4</i></a>
+      <a href="{{ 'stack/font-hieu-ung/' | url }}"><span>🔤</span><b>Font</b><i>& hiệu ứng</i></a>
+      <a href="{{ 'stack/am-thanh/' | url }}"><span>🎵</span><b>Âm thanh</b><i>−14 LUFS</i></a>
+      <a href="{{ 'stack/anh-video-ai/' | url }}"><span>🖼️</span><b>Ảnh AI</b><i>Codex · Veo</i></a>
+      <a href="{{ 'stack/hoc-trend/' | url }}"><span>📈</span><b>Trend</b><i>tikdown</i></a>
+    </div>
+  </section>
+
+  <!-- RULES -->
+  <section class="block">
+    <h2 class="block__title">Năm luật mọi luồng theo</h2>
+    <div class="notes">
+      <div class="note n1"><b>Giọng là xương sống.</b> Cảnh dài theo giọng đo thật, không tăng tốc giọng.</div>
+      <div class="note n2"><b>Nhìn rồi mới xong.</b> Chưa xem contact sheet thì chưa báo xong.</div>
+      <div class="note n3"><b>Claude không vẽ.</b> Viết prompt, Codex sinh ảnh.</div>
+      <div class="note n4"><b>Không cắt video người khác.</b> Trend thì Stitch / Duet.</div>
+      <div class="note n5"><b>Không bịa số.</b> Số trên màn hình phải đo được.</div>
+    </div>
+  </section>
+
+  <!-- AUTHOR -->
+  <section class="block author">
+    <img class="author__avatar" src="https://github.com/tucarmd.png?size=240" alt="Tu Nguyen" loading="lazy">
+    <div class="author__text">
+      <p class="kicker"><span class="dot"></span> Làm bởi</p>
+      <h2 class="block__title">Tu Nguyen</h2>
+      <p>Indie maker làm app, game, công cụ AI — và ghi lại cách làm video bằng Claude Code để lần sau khỏi mò lại.</p>
+      <div class="author__links">
+        <a class="btn" href="https://x.com/lightstarvn" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.9 2H22l-7.2 8.2L23 22h-6.6l-5.2-6.8L5.3 22H2.2l7.7-8.8L1.8 2h6.7l4.7 6.2zm-1.1 18h1.7L7.3 3.9H5.5z"/></svg> @lightstarvn</a>
+        <a class="btn" href="https://github.com/tucarmd" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 .5a11.5 11.5 0 0 0-3.6 22.4c.6.1.8-.3.8-.6v-2c-3.2.7-3.9-1.5-3.9-1.5-.5-1.3-1.3-1.7-1.3-1.7-1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1 1.8 2.8 1.3 3.5 1 .1-.8.4-1.3.7-1.6-2.6-.3-5.3-1.3-5.3-5.7 0-1.3.5-2.3 1.2-3.1-.1-.3-.5-1.5.1-3.1 0 0 1-.3 3.2 1.2a11 11 0 0 1 5.8 0C17 4.8 18 5.1 18 5.1c.6 1.6.2 2.8.1 3.1.8.8 1.2 1.8 1.2 3.1 0 4.4-2.7 5.4-5.3 5.7.4.4.8 1.1.8 2.2v3.2c0 .3.2.7.8.6A11.5 11.5 0 0 0 12 .5z"/></svg> @tucarmd</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="final">
+    <h2>Muốn làm video gì? Chọn luồng, gõ skill.</h2>
+    <a class="btn btn--primary btn--big" href="{{ 'luong/' | url }}">Xem 6 luồng →</a>
+    <p><a href="{{ 'tra-cuu/thuat-ngu/' | url }}">Thuật ngữ</a> · <a href="{{ 'tra-cuu/cai-dat/' | url }}">Cài đặt máy</a></p>
+  </section>
+</div>
+{% endblock %}
+
+{% block content %}{% endblock %}
+{% block footer %}{{ super() }}{% endblock %}
