@@ -73,8 +73,8 @@ extra:
       link: https://x.com/lightstarvn
       name: Tu Nguyen trên X (@lightstarvn)
     - icon: fontawesome/brands/github
-      link: https://github.com/tucarmd
-      name: Tu Nguyen trên GitHub (@tucarmd)
+      link: https://github.com/nvminhtu
+      name: Tu Nguyen trên GitHub (@nvminhtu)
 
 nav:
   - Trang chủ: index.md
