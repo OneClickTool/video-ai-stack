@@ -383,3 +383,18 @@ body {
 @media (max-width: 1000px) { .areas--8 { grid-template-columns: repeat(4, 1fr); } }
 @media (max-width: 620px) { .areas--8 { grid-template-columns: repeat(2, 1fr); } }
 [data-md-color-scheme="slate"] .c-ink { color: #FAF6EE !important; }
+
+/* Đăng video: thẻ cover trái + các bước đăng phải */
+.up-card { display: grid; grid-template-columns: 180px 1fr; gap: 1.2rem; padding: 1rem;
+  margin: 0 0 1.2rem; border: 1px solid var(--md-default-fg-color--lightest); border-radius: 12px; }
+.up-card > p:empty, .up-body > p:empty { display: none; }
+.up-cover { position: relative; }
+.up-cover img { width: 100%; border-radius: 8px; display: block; }
+.up-n { position: absolute; top: -10px; left: -10px; background: var(--md-accent-fg-color); color: #fff;
+  font-weight: 700; width: 30px; height: 30px; border-radius: 50%; display: grid; place-items: center; z-index: 1; }
+.up-body { min-width: 0; }
+.up-body p.up-head { margin: 0 0 .4rem; font-size: .75rem; color: var(--md-default-fg-color--light); }
+.up-body p.up-label { margin: .7rem 0 .2rem; font-size: .72rem; font-weight: 700; text-decoration: none; }
+.up-body .highlight, .up-body pre { margin: 0; }
+.up-body pre code { white-space: pre-wrap; word-break: break-word; }
+@media (max-width: 700px) { .up-card { grid-template-columns: 1fr; } .up-cover img { max-width: 200px; } }

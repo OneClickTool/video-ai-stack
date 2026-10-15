@@ -78,6 +78,7 @@ extra:
 
 nav:
   - Trang chủ: index.md
+  - Đăng video: dang-video.md
   - Các luồng:
       - luong/index.md
       - 1 · TikTok faceless giọng AI: luong/01-tiktok-faceless.md
