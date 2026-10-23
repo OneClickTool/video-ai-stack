@@ -67,6 +67,9 @@ plugins:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/showcase.js
+
 extra:
   social:
     - icon: fontawesome/brands/x-twitter
@@ -76,8 +79,13 @@ extra:
       link: https://github.com/nvminhtu
       name: Tu Nguyen trên GitHub (@nvminhtu)
 
+# 700+ trang chi tiết video không vào menu, vào qua lưới ở showcase/
+not_in_nav: |
+  showcase/v/*
+
 nav:
   - Trang chủ: index.md
+  - Showcase Opus 5.5: showcase/index.md
   - Đăng video: dang-video.md
   - Các luồng:
       - luong/index.md

@@ -11,7 +11,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
 
     <div class="up-card" markdown>
 
-    <div class="up-cover"><span class="up-n">1</span><img src="../images/upload/v2-vi-sweepy-meme.webp" alt="v2-vi-sweepy-meme" loading="lazy"></div>
+    <div class="up-cover"><span class="up-n">1</span><img src="../images/upload/v2-vi-sweepy-meme.webp" alt="sweepy-thu-muc-tai-ve-toan-ban-final-final-vi" loading="lazy"></div>
 
     <div class="up-body" markdown>
 
@@ -20,7 +20,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    v2-vi-sweepy-meme.mp4
+    sweepy-thu-muc-tai-ve-toan-ban-final-final-vi.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -37,7 +37,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     #mac #macbook #donrac #sweepy
     ```
 
-    <p class="up-label">④ Thumbnail: <code>v2-vi-sweepy-meme-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>sweepy-thu-muc-tai-ve-toan-ban-final-final-vi-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 
@@ -63,7 +63,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
 
     <div class="up-card" markdown>
 
-    <div class="up-cover"><span class="up-n">2</span><img src="../images/upload/v3-vi-mac-day-bo-nho.webp" alt="v3-vi-mac-day-bo-nho" loading="lazy"></div>
+    <div class="up-cover"><span class="up-n">2</span><img src="../images/upload/v3-vi-mac-day-bo-nho.webp" alt="sweepy-mac-bao-day-bo-nho-kiem-tra-3-cho-nay-truoc-vi" loading="lazy"></div>
 
     <div class="up-body" markdown>
 
@@ -72,7 +72,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    v3-vi-mac-day-bo-nho.mp4
+    sweepy-mac-bao-day-bo-nho-kiem-tra-3-cho-nay-truoc-vi.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -89,7 +89,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     #mac #macbook #daybonho #meomac
     ```
 
-    <p class="up-label">④ Thumbnail: <code>v3-vi-mac-day-bo-nho-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>sweepy-mac-bao-day-bo-nho-kiem-tra-3-cho-nay-truoc-vi-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 
@@ -115,7 +115,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
 
     <div class="up-card" markdown>
 
-    <div class="up-cover"><span class="up-n">3</span><img src="../images/upload/v5-en-sweepy-downloads.webp" alt="v5-en-sweepy-downloads" loading="lazy"></div>
+    <div class="up-cover"><span class="up-n">3</span><img src="../images/upload/v5-en-sweepy-downloads.webp" alt="sweepy-report-final-final-your-downloads-folder-is-a-mess-en" loading="lazy"></div>
 
     <div class="up-body" markdown>
 
@@ -124,7 +124,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    v5-en-sweepy-downloads.mp4
+    sweepy-report-final-final-your-downloads-folder-is-a-mess-en.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -141,7 +141,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     #mac #macbook #declutter
     ```
 
-    <p class="up-label">④ Thumbnail: <code>v5-en-sweepy-downloads-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>sweepy-report-final-final-your-downloads-folder-is-a-mess-en-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 
@@ -176,7 +176,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    v6-vi-adam-macbook-neo.mp4
+    sweepy-macbook-mua-moi-ma-day-o-nhanh-lam-vay-ne-vi.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -193,7 +193,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     #mac #macbook #macbookneo #meomac
     ```
 
-    <p class="up-label">④ Thumbnail: <code>v6-vi-adam-macbook-neo-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>sweepy-macbook-mua-moi-ma-day-o-nhanh-lam-vay-ne-vi-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 
@@ -219,7 +219,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
 
     <div class="up-card" markdown>
 
-    <div class="up-cover"><span class="up-n">5</span><img src="../images/upload/e1-en-spinning-wheel.webp" alt="e1-en-spinning-wheel" loading="lazy"></div>
+    <div class="up-cover"><span class="up-n">5</span><img src="../images/upload/e1-en-spinning-wheel.webp" alt="sweepy-mac-stuck-on-the-spinning-wheel-fix-it-in-30-seconds-en" loading="lazy"></div>
 
     <div class="up-body" markdown>
 
@@ -228,7 +228,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    e1-en-spinning-wheel.mp4
+    sweepy-mac-stuck-on-the-spinning-wheel-fix-it-in-30-seconds-en.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -243,7 +243,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     Force Quit: ⌥ Option + ⌘ Command + Esc. Still slow? Check System Settings → General → Storage. Free cleaner: https://oneclicktool.app/macos/sweepy · Clip: @wadlrb on TikTok
     ```
 
-    <p class="up-label">④ Thumbnail: <code>e1-en-spinning-wheel-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>sweepy-mac-stuck-on-the-spinning-wheel-fix-it-in-30-seconds-en-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 
@@ -269,7 +269,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
 
     <div class="up-card" markdown>
 
-    <div class="up-cover"><span class="up-n">6</span><img src="../images/upload/e1-vi-quay-hoai.webp" alt="e1-vi-quay-hoai" loading="lazy"></div>
+    <div class="up-cover"><span class="up-n">6</span><img src="../images/upload/e1-vi-quay-hoai.webp" alt="sweepy-mac-quay-vong-cau-vong-hoai-sua-trong-20-giay-vi" loading="lazy"></div>
 
     <div class="up-body" markdown>
 
@@ -278,7 +278,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    e1-vi-quay-hoai.mp4
+    sweepy-mac-quay-vong-cau-vong-hoai-sua-trong-20-giay-vi.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -295,7 +295,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     #mac #macbook #meomac
     ```
 
-    <p class="up-label">④ Thumbnail: <code>e1-vi-quay-hoai-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>sweepy-mac-quay-vong-cau-vong-hoai-sua-trong-20-giay-vi-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 
@@ -321,7 +321,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
 
     <div class="up-card" markdown>
 
-    <div class="up-cover"><span class="up-n">7</span><img src="../images/upload/e2-en-downloads-76gb.webp" alt="e2-en-downloads-76gb" loading="lazy"></div>
+    <div class="up-cover"><span class="up-n">7</span><img src="../images/upload/e2-en-downloads-76gb.webp" alt="sweepy-76-gb-in-your-downloads-folder-clean-it-in-one-scan-en" loading="lazy"></div>
 
     <div class="up-body" markdown>
 
@@ -330,7 +330,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    e2-en-downloads-76gb.mp4
+    sweepy-76-gb-in-your-downloads-folder-clean-it-in-one-scan-en.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -345,7 +345,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     Duplicates matched byte for byte, original kept, everything goes to Trash and can be undone. Sweepy (free): https://oneclicktool.app/macos/sweepy · Clip: @naaackers on TikTok
     ```
 
-    <p class="up-label">④ Thumbnail: <code>e2-en-downloads-76gb-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>sweepy-76-gb-in-your-downloads-folder-clean-it-in-one-scan-en-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 
@@ -371,7 +371,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
 
     <div class="up-card" markdown>
 
-    <div class="up-cover"><span class="up-n">8</span><img src="../images/upload/e3-en-system-data.webp" alt="e3-en-system-data" loading="lazy"></div>
+    <div class="up-cover"><span class="up-n">8</span><img src="../images/upload/e3-en-system-data.webp" alt="sweepy-mac-system-data-taking-all-your-storage-try-this-first-en" loading="lazy"></div>
 
     <div class="up-body" markdown>
 
@@ -380,7 +380,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    e3-en-system-data.mp4
+    sweepy-mac-system-data-taking-all-your-storage-try-this-first-en.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -395,7 +395,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     1) System Settings → General → Storage 2) Finder → Go → Go to Folder → ~/Library/Caches 3) Clear Downloads with Sweepy (free): https://oneclicktool.app/macos/sweepy
     ```
 
-    <p class="up-label">④ Thumbnail: <code>e3-en-system-data-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>sweepy-mac-system-data-taking-all-your-storage-try-this-first-en-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 
@@ -421,7 +421,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
 
     <div class="up-card" markdown>
 
-    <div class="up-cover"><span class="up-n">9</span><img src="../images/upload/d1-en-sweepy-demo.webp" alt="d1-en-sweepy-demo" loading="lazy"></div>
+    <div class="up-cover"><span class="up-n">9</span><img src="../images/upload/d1-en-sweepy-demo.webp" alt="sweepy-my-mac-was-hiding-868-mb-of-duplicates-en" loading="lazy"></div>
 
     <div class="up-body" markdown>
 
@@ -430,7 +430,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    d1-en-sweepy-demo.mp4
+    sweepy-my-mac-was-hiding-868-mb-of-duplicates-en.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -447,7 +447,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     #mac #macbook #duplicatefiles
     ```
 
-    <p class="up-label">④ Thumbnail: <code>d1-en-sweepy-demo-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>sweepy-my-mac-was-hiding-868-mb-of-duplicates-en-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 
@@ -475,7 +475,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
 
     <div class="up-card" markdown>
 
-    <div class="up-cover"><span class="up-n">1</span><img src="../images/upload/p1-vi-ai-bao-mau.webp" alt="p1-vi-ai-bao-mau" loading="lazy"></div>
+    <div class="up-cover"><span class="up-n">1</span><img src="../images/upload/p1-vi-ai-bao-mau.webp" alt="shotmatic-xai-ai-cho-do-viec-ai-ngo-thanh-bao-mau-cua-ai-vi" loading="lazy"></div>
 
     <div class="up-body" markdown>
 
@@ -484,7 +484,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    p1-vi-ai-bao-mau.mp4
+    shotmatic-xai-ai-cho-do-viec-ai-ngo-thanh-bao-mau-cua-ai-vi.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -501,7 +501,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     #ai #claudecode #laptrinh
     ```
 
-    <p class="up-label">④ Thumbnail: <code>p1-vi-ai-bao-mau-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>shotmatic-xai-ai-cho-do-viec-ai-ngo-thanh-bao-mau-cua-ai-vi-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 
@@ -527,7 +527,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
 
     <div class="up-card" markdown>
 
-    <div class="up-cover"><span class="up-n">2</span><img src="../images/upload/p4-en-agents-chaos.webp" alt="p4-en-agents-chaos" loading="lazy"></div>
+    <div class="up-cover"><span class="up-n">2</span><img src="../images/upload/p4-en-agents-chaos.webp" alt="shotmatic-running-10-repos-with-ai-agents-be-like-en" loading="lazy"></div>
 
     <div class="up-body" markdown>
 
@@ -536,7 +536,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    p4-en-agents-chaos.mp4
+    shotmatic-running-10-repos-with-ai-agents-be-like-en.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -553,7 +553,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     #aiagents #claudecode #indiedev
     ```
 
-    <p class="up-label">④ Thumbnail: <code>p4-en-agents-chaos-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>shotmatic-running-10-repos-with-ai-agents-be-like-en-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 
@@ -579,7 +579,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
 
     <div class="up-card" markdown>
 
-    <div class="up-cover"><span class="up-n">3</span><img src="../images/upload/p5-en-ai-docs.webp" alt="p5-en-ai-docs" loading="lazy"></div>
+    <div class="up-cover"><span class="up-n">3</span><img src="../images/upload/p5-en-ai-docs.webp" alt="shotmatic-writing-docs-just-so-your-ai-remembers-en" loading="lazy"></div>
 
     <div class="up-body" markdown>
 
@@ -588,7 +588,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    p5-en-ai-docs.mp4
+    shotmatic-writing-docs-just-so-your-ai-remembers-en.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -605,7 +605,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     #claude #aiagents #devtools
     ```
 
-    <p class="up-label">④ Thumbnail: <code>p5-en-ai-docs-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>shotmatic-writing-docs-just-so-your-ai-remembers-en-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 
@@ -631,7 +631,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
 
     <div class="up-card" markdown>
 
-    <div class="up-cover"><span class="up-n">4</span><img src="../images/upload/t1-en-stitch-same.webp" alt="t1-en-stitch-same" loading="lazy"></div>
+    <div class="up-cover"><span class="up-n">4</span><img src="../images/upload/t1-en-stitch-same.webp" alt="shotmatic-same-my-ai-agents-kept-going-in-circles-too-en" loading="lazy"></div>
 
     <div class="up-body" markdown>
 
@@ -640,7 +640,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    t1-en-stitch-same.mp4
+    shotmatic-same-my-ai-agents-kept-going-in-circles-too-en.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -657,7 +657,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     #claudecode #aiagents #coding
     ```
 
-    <p class="up-label">④ Thumbnail: <code>t1-en-stitch-same-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>shotmatic-same-my-ai-agents-kept-going-in-circles-too-en-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 
@@ -683,7 +683,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
 
     <div class="up-card" markdown>
 
-    <div class="up-cover"><span class="up-n">5</span><img src="../images/upload/t3-vi-tell-me-dev.webp" alt="t3-vi-tell-me-dev" loading="lazy"></div>
+    <div class="up-cover"><span class="up-n">5</span><img src="../images/upload/t3-vi-tell-me-dev.webp" alt="shotmatic-47-tab-9-terminal-0-commit-vi" loading="lazy"></div>
 
     <div class="up-body" markdown>
 
@@ -692,7 +692,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    t3-vi-tell-me-dev.mp4
+    shotmatic-47-tab-9-terminal-0-commit-vi.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -709,7 +709,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     #laptrinh #ai #devtiktok
     ```
 
-    <p class="up-label">④ Thumbnail: <code>t3-vi-tell-me-dev-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>shotmatic-47-tab-9-terminal-0-commit-vi-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 
@@ -735,7 +735,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
 
     <div class="up-card" markdown>
 
-    <div class="up-cover"><span class="up-n">6</span><img src="../images/upload/g1-vi-green-ai-quen.webp" alt="g1-vi-green-ai-quen" loading="lazy"></div>
+    <div class="up-cover"><span class="up-n">6</span><img src="../images/upload/g1-vi-green-ai-quen.webp" alt="shotmatic-xai-ai-code-co-lam-minh-luoi-khong-vi" loading="lazy"></div>
 
     <div class="up-body" markdown>
 
@@ -744,7 +744,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    g1-vi-green-ai-quen.mp4
+    shotmatic-xai-ai-code-co-lam-minh-luoi-khong-vi.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -761,7 +761,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     #ai #laptrinh #claudecode
     ```
 
-    <p class="up-label">④ Thumbnail: <code>g1-vi-green-ai-quen-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>shotmatic-xai-ai-code-co-lam-minh-luoi-khong-vi-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 
@@ -787,7 +787,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
 
     <div class="up-card" markdown>
 
-    <div class="up-cover"><span class="up-n">7</span><img src="../images/upload/u1-en-duet-loops.webp" alt="u1-en-duet-loops" loading="lazy"></div>
+    <div class="up-cover"><span class="up-n">7</span><img src="../images/upload/u1-en-duet-loops.webp" alt="shotmatic-why-your-ai-agent-keeps-going-in-circles-en" loading="lazy"></div>
 
     <div class="up-body" markdown>
 
@@ -796,7 +796,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    u1-en-duet-loops.mp4
+    shotmatic-why-your-ai-agent-keeps-going-in-circles-en.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -813,7 +813,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     #aiagents #claudecode #coding
     ```
 
-    <p class="up-label">④ Thumbnail: <code>u1-en-duet-loops-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>shotmatic-why-your-ai-agent-keeps-going-in-circles-en-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 
@@ -841,7 +841,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
 
     <div class="up-card" markdown>
 
-    <div class="up-cover"><span class="up-n">1</span><img src="../images/upload/p2-vi-md-doc-met.webp" alt="p2-vi-md-doc-met" loading="lazy"></div>
+    <div class="up-cover"><span class="up-n">1</span><img src="../images/upload/p2-vi-md-doc-met.webp" alt="markdown-viewer-doc-file-md-tho-ma-hoa-ca-mat-vi" loading="lazy"></div>
 
     <div class="up-body" markdown>
 
@@ -850,7 +850,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    p2-vi-md-doc-met.mp4
+    markdown-viewer-doc-file-md-tho-ma-hoa-ca-mat-vi.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -867,7 +867,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     #markdown #laptrinh #productivity
     ```
 
-    <p class="up-label">④ Thumbnail: <code>p2-vi-md-doc-met-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>markdown-viewer-doc-file-md-tho-ma-hoa-ca-mat-vi-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 
@@ -893,7 +893,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
 
     <div class="up-card" markdown>
 
-    <div class="up-cover"><span class="up-n">2</span><img src="../images/upload/p3-vi-md-bat-dau.webp" alt="p3-vi-md-bat-dau" loading="lazy"></div>
+    <div class="up-cover"><span class="up-n">2</span><img src="../images/upload/p3-vi-md-bat-dau.webp" alt="markdown-viewer-50-file-md-doc-file-nao-truoc-vi" loading="lazy"></div>
 
     <div class="up-body" markdown>
 
@@ -902,7 +902,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    p3-vi-md-bat-dau.mp4
+    markdown-viewer-50-file-md-doc-file-nao-truoc-vi.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -919,7 +919,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     #markdown #documentation #laptrinh
     ```
 
-    <p class="up-label">④ Thumbnail: <code>p3-vi-md-bat-dau-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>markdown-viewer-50-file-md-doc-file-nao-truoc-vi-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 
@@ -945,7 +945,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
 
     <div class="up-card" markdown>
 
-    <div class="up-cover"><span class="up-n">3</span><img src="../images/upload/t2-en-wow-docs.webp" alt="t2-en-wow-docs" loading="lazy"></div>
+    <div class="up-cover"><span class="up-n">3</span><img src="../images/upload/t2-en-wow-docs.webp" alt="markdown-viewer-50-markdown-files-then-i-opened-this-en" loading="lazy"></div>
 
     <div class="up-body" markdown>
 
@@ -954,7 +954,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    t2-en-wow-docs.mp4
+    markdown-viewer-50-markdown-files-then-i-opened-this-en.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -971,7 +971,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     #markdown #documentation #devtools
     ```
 
-    <p class="up-label">④ Thumbnail: <code>t2-en-wow-docs-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>markdown-viewer-50-markdown-files-then-i-opened-this-en-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 
@@ -997,7 +997,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
 
     <div class="up-card" markdown>
 
-    <div class="up-cover"><span class="up-n">4</span><img src="../images/upload/t4-en-pov-old-repo.webp" alt="t4-en-pov-old-repo" loading="lazy"></div>
+    <div class="up-cover"><span class="up-n">4</span><img src="../images/upload/t4-en-pov-old-repo.webp" alt="markdown-viewer-pov-you-open-your-own-repo-after-3-months-en" loading="lazy"></div>
 
     <div class="up-body" markdown>
 
@@ -1006,7 +1006,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    t4-en-pov-old-repo.mp4
+    markdown-viewer-pov-you-open-your-own-repo-after-3-months-en.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -1023,7 +1023,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     #coding #devhumor #markdown
     ```
 
-    <p class="up-label">④ Thumbnail: <code>t4-en-pov-old-repo-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>markdown-viewer-pov-you-open-your-own-repo-after-3-months-en-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 
@@ -1049,7 +1049,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
 
     <div class="up-card" markdown>
 
-    <div class="up-cover"><span class="up-n">5</span><img src="../images/upload/t5-vi-docs-before-after.webp" alt="t5-vi-docs-before-after" loading="lazy"></div>
+    <div class="up-cover"><span class="up-n">5</span><img src="../images/upload/t5-vi-docs-before-after.webp" alt="markdown-viewer-tai-lieu-du-an-truoc-va-sau-vi" loading="lazy"></div>
 
     <div class="up-body" markdown>
 
@@ -1058,7 +1058,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    t5-vi-docs-before-after.mp4
+    markdown-viewer-tai-lieu-du-an-truoc-va-sau-vi.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -1075,7 +1075,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     #markdown #laptrinh #documentation
     ```
 
-    <p class="up-label">④ Thumbnail: <code>t5-vi-docs-before-after-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>markdown-viewer-tai-lieu-du-an-truoc-va-sau-vi-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 
@@ -1103,7 +1103,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
 
     <div class="up-card" markdown>
 
-    <div class="up-cover"><span class="up-n">1</span><img src="../images/upload/v1-vi-phim-tat.webp" alt="v1-vi-phim-tat" loading="lazy"></div>
+    <div class="up-cover"><span class="up-n">1</span><img src="../images/upload/v1-vi-phim-tat.webp" alt="meo-mac-3-phim-tat-mac-minh-uoc-biet-som-hon-vi" loading="lazy"></div>
 
     <div class="up-body" markdown>
 
@@ -1112,7 +1112,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    v1-vi-phim-tat.mp4
+    meo-mac-3-phim-tat-mac-minh-uoc-biet-som-hon-vi.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -1129,7 +1129,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     #mac #macbook #meomac #phimtat
     ```
 
-    <p class="up-label">④ Thumbnail: <code>v1-vi-phim-tat-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>meo-mac-3-phim-tat-mac-minh-uoc-biet-som-hon-vi-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 
@@ -1155,7 +1155,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
 
     <div class="up-card" markdown>
 
-    <div class="up-cover"><span class="up-n">2</span><img src="../images/upload/v4-en-hidden-tricks.webp" alt="v4-en-hidden-tricks" loading="lazy"></div>
+    <div class="up-cover"><span class="up-n">2</span><img src="../images/upload/v4-en-hidden-tricks.webp" alt="meo-mac-3-mac-tricks-that-feel-illegal-to-know-en" loading="lazy"></div>
 
     <div class="up-body" markdown>
 
@@ -1164,7 +1164,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    v4-en-hidden-tricks.mp4
+    meo-mac-3-mac-tricks-that-feel-illegal-to-know-en.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -1181,7 +1181,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     #mac #macbook #mactips
     ```
 
-    <p class="up-label">④ Thumbnail: <code>v4-en-hidden-tricks-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>meo-mac-3-mac-tricks-that-feel-illegal-to-know-en-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 
@@ -1216,7 +1216,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     <p class="up-label">① Chọn file</p>
 
     ```text
-    a1-vi-chup-man-hinh.mp4
+    meo-mac-chup-man-hinh-mac-dung-cach-dung-dung-dien-thoai-nua-vi.mp4
     ```
 
     <p class="up-label">② Title</p>
@@ -1233,7 +1233,7 @@ Mỗi thẻ = 1 video. Làm từ trên xuống: **① chọn file → ② title 
     #mac #macbook #meomac #chupmanhinh
     ```
 
-    <p class="up-label">④ Thumbnail: <code>a1-vi-chup-man-hinh-cover.png</code> (ảnh bên trái)</p>
+    <p class="up-label">④ Thumbnail: <code>meo-mac-chup-man-hinh-mac-dung-cach-dung-dung-dien-thoai-nua-vi-cover.png</code> (ảnh bên trái)</p>
 
     <p class="up-label">⑤ Tags</p>
 

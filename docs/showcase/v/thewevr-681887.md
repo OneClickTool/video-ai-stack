@@ -1,0 +1,95 @@
+---
+title: "OP-497 · Code-Generated Music Video Animation"
+description: "Make a complete music video for the song in this folder, with all visuals drawn and animated in JavaScript. Use the entire song. SETUP Inspect this fo"
+hide:
+  - toc
+---
+
+<!-- sinh bởi scripts/sync_opus_showcase.py — đừng sửa tay -->
+
+# Code-Generated Music Video Animation
+
+<p class="sc-code-line"><span class="sc-code">OP-497</span> <span class="chip">Motion graphic</span></p>
+
+<div class="sc-media-row"><figure class="sc-media"><a href="https://x.com/thewevr/status/2106774417732681887"><img src="https://media.skillry.dev/opus-5-5/_prompts/thewevr-681887/poster.d69cac97a8.webp" alt="Code-Generated Music Video Animation" loading="lazy"></a><figcaption>Ảnh poster · bấm để xem video gốc trên X</figcaption></figure></div>
+
+Tác giả: [@thewevr](https://x.com/thewevr) · [Video gốc trên X](https://x.com/thewevr/status/2106774417732681887)
+
+## Prompt
+
+```text
+Make a complete music video for the song in this folder, with all
+visuals drawn and animated in JavaScript. Use the entire song.
+
+SETUP
+Inspect this folder and identify the song and any lyrics or reference
+files. Preserve my original files unchanged.
+
+Use this existing animation starter:
+https://t.co/oN3A7ZZyEl
+
+Clone it into a new ./video subfolder, unless an existing copy is
+already present. Do not overwrite existing work or clone into the
+nonempty project root.
+
+Read its README.md and ANIMATION_GUIDE.md completely, then inspect
+render.mjs and the project configuration. Use the existing rendering
+machinery rather than inventing a replacement.
+
+Check Node.js, Chrome, and FFmpeg. Inspect the package configuration
+and install the project dependencies. Ask before making system-wide
+changes or downloading large additional tools.
+
+Do not use fal, external image/video generation, paid APIs, or the
+hybrid music-video plugin. All finished visuals must be code-drawn.
+
+CREATIVE DIRECTION
+Create a cohesive, visually imaginative animated music video with a
+handmade, papery, illustrated feel. Express the song's meaning through
+scenes, characters, visual metaphors, and purposeful transitions.
+Establish an engaging opening and develop recurring visual motifs.
+Do not make a slideshow, a generic audio visualizer, or one animation
+loop repeated for the entire song. Design characters appropriate to
+this song rather than automatically using the starter's mascot.
+
+MUSIC AND TIMING
+Use the supplied recording as the continuous master soundtrack.
+Do not remix, replace, speed up, or shorten it.
+
+Measure its duration and use available local audio-analysis tools to
+identify musical sections and likely beat/accent timings. Record these
+in a shared timeline and drive animation from that timeline.
+
+Use supplied lyrics as authoritative. If lyrics are missing, use a
+local transcription tool only if available, flag uncertain words, and
+do not invent lyrics. Continue with non-lyric visuals where necessary.
+
+When verified lyrics are available, use expressive, readable lyric
+animation where it strengthens the scene. This explicitly overrides
+the starter's default preference against lettering.
+
+PRODUCTION
+Write STORYBOARD.md with timed scenes covering the complete recording.
+Save the project brief and rerender instructions in CLAUDE.md.
+
+Then build the video. Make reasonable creative decisions and continue
+without stopping for approval at every scene.
+
+Test a few representative frames and a short section before the full
+render. Inspect the resulting images and frame sequences, fix visible
+defects, and keep the animation practical for this computer.
+
+Use efficient code-drawn textures if expensive watercolor effects
+make rendering impractical.
+
+DELIVERY
+Render the complete video
+```
+
+<div class="sc-cta" markdown>
+**Muốn có kênh YouTube theo format này?** Nhắn mã **OP-497** — mình dựng kênh cùng kiểu hình
+(*motion graphic* — hợp kênh Shorts “đã mắt”, typography, loop thư giãn) nhưng nội dung, nhân vật, giọng đọc là của riêng kênh bạn, ra video đều mỗi tuần.
+[Nhắn qua X @lightstarvn](https://x.com/lightstarvn){ .md-button .md-button--primary }
+</div>
+
+[← OP-496](ayi-ainotes-933194.md) · [Tất cả video](../index.md) · [OP-498 →](archiveexplorer-560622.md)

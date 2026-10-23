@@ -1,0 +1,45 @@
+---
+title: "OP-174 · Story-Led Music Video, Girl and Boy"
+description: "I want you to independently do an end-to-end complete pass on making 20 second story led music video with two main protagonists a girl and a boy. I wa"
+hide:
+  - toc
+---
+
+<!-- sinh bởi scripts/sync_opus_showcase.py — đừng sửa tay -->
+
+# Story-Led Music Video, Girl and Boy
+
+<p class="sc-code-line"><span class="sc-code">OP-174</span> <span class="chip">Motion graphic</span> <span class="chip chip--ghost">Canvas</span> <span class="chip chip--ghost">Pixel art</span></p>
+
+<div class="sc-media-row"><figure class="sc-media"><video src="https://media.skillry.dev/opus-5-5/anjmaxx-459455/original-card.f4ab7a0885.mp4" poster="https://media.skillry.dev/opus-5-5/anjmaxx-459455/original.7ad28c81ea.webp" controls muted loop playsinline preload="none"></video><figcaption>Bản gốc của tác giả</figcaption></figure><figure class="sc-media"><video src="https://media.skillry.dev/opus-5-5/anjmaxx-459455/remake-card.4dc0e7838a.mp4" poster="https://media.skillry.dev/opus-5-5/anjmaxx-459455/remake.6da81ac09e.webp" controls muted loop playsinline preload="none"></video><figcaption>Bản dựng lại trên Skillry (cùng prompt)</figcaption></figure></div>
+
+Tác giả: [@anjmaxx](https://x.com/anjmaxx) · [Video gốc trên X](https://x.com/anjmaxx/status/2103173729656459455) · [Xem gốc + remake trên Skillry](https://skillry.dev/ai-videos/opus-5-5/anjmaxx-459455)
+
+## Prompt
+
+```text
+I want you to independently do an end-to-end complete pass on making 20 second story led music video with two main protagonists a girl and a boy. I want the concept and storytelling to be reallyy unique and engaging. the audeince should be hooked to find out what happens next. the visuals shouls be pretty and really ccool. both the charcters should have a witty, quirky personality.  Use the right audio track and think and feel very deeply about what is the best way to visually represent all of the lyrics on screen. in terms of style, you can do truly anything that you think might best let you visually express yourself, including abstract motion graphics. You can use the internet freely to pull in references. You can look at motion design. I want you to make a fresh music video that has beautifully rendered JavaScript animations with a papery feel in a similar style to the reference that is created, but push the aesthetics in any direction you want and consider what is part of the modern zeitgeist. ive also attached another style that ypu explore and pick out whatever seems best to you.
+
+Also, think about your current capabilities and what is realistic for you to be able to do. I think you should be mindful of aesthetics here, and I don't want you to produce something that is GPT slop. Instead, I'd be more impressed if you come up with a coherent style that works well. Generate the style sheet.
+
+Think critically about what is relevant here and what would be fun, and also perform well on Twitter as far as an aesthetic. I think that K-pop is a good anchor point visually that you can pull from, but I'll let you cook here.
+Once you have your character sheet, you can make a few backup dancers and some supporting characters as you see fit. You can design your own sets. You can insert the characters and then do seedance 2.5 video generations to serve as the base assets for this, and you could pass in the lyrics so you can generate individual scenes.
+You don't need to have vocal singing, like visible lip movement, throughout the entire thing. Think like a regular music video where you have some inserts that are done independently and don't have the characters in them, or you see the characters doing something else entirely different. I think that for the world building for this, we want to create the sense of speeding up, and so I would like you to audit all of the different events, like the Navi Stokes and all of the Twitter hype around math getting eaten up. Think really critically about how to integrate all of the current memes that are in the zeitgeist on the Twitter timeline, and all of the feelings around AI progress. Think about things like the Shinji meme and all of the words that are around him, and how you might be able to integrate this. You can also just take straight assets and insert things into the video in an internet brutalism style. You should feel very creatively free in order to do what you want here, but try and anchor to visual references that people will be able to understand. We need a very strong, compelling visual hook that gets people excited and appreciates the work that you've done here really quickly. You can also just go and study other music videos and understand what they've done really well. I think that K-pop is probably one of the best examples that we can pull from, and thinking about how they direct human attention and manage human psychology in the way that they use visual patterns.
+
+This is probably your best approach, but taking more stylistic freedom instead of having to anchor to K-pop too intensely.
+
+I think too, we want to think about how to retain attention, and one of the best ways to do this is through text on screen. It'd be good to have amazing motion graphics of the text lyrics that are actually embedded into the video itself. And you can think about this as you are composing shots. As you're making backgrounds and inserting characters, we can think about where we want to have lyrics be really big and really present, so the background can be less busy there, and you can position the characters perhaps on the right as lyrics appear on the left.
+
+You want to have some variance, so sometimes I think lyrics will just appear more like subtitles, and then other times they're going to be really present and really big. I think at the start for the visual hook, we do want to have lyrics be much more visually present because that's a strong way to grab people's attention. Remember, you can really do anything here. The goal is to make a banger for Twitter, and the stretch goal is to make something better than anyone's ever seen before. I think that what I would remind you of is that sometimes when things cohere together, it can be jarring or abrasive because the thought work has not been done beforehand in order for everything to mesh cleanly. You need to be really rigorous in planning of composition and timing to make sure this goes well.
+You also need to be open to going back and revisiting things in order to be able to reiterate. You're going to want to watch the entire video multiple times, take screenshots at individual parts, and think about if something is really up to the bar of quality that we need here. I trust that you can do this, and I think that it's really important to nail the style of animations.
+
+You can also use search abilities and find other references to pull from for motion, for JavaScript, animations, et cetera, and integrate them. Again, be economical; don't go crazy, but spend what you want here and see what you can cook up.
+```
+
+<div class="sc-cta" markdown>
+**Muốn có kênh YouTube theo format này?** Nhắn mã **OP-174** — mình dựng kênh cùng kiểu hình
+(*motion graphic* — hợp kênh Shorts “đã mắt”, typography, loop thư giãn) nhưng nội dung, nhân vật, giọng đọc là của riêng kênh bạn, ra video đều mỗi tuần.
+[Nhắn qua X @lightstarvn](https://x.com/lightstarvn){ .md-button .md-button--primary }
+</div>
+
+[← OP-173](pbteja1998-651644.md) · [Tất cả video](../index.md) · [OP-175 →](buildfastwithai-582551.md)
